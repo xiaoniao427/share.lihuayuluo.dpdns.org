@@ -239,8 +239,8 @@ export default {
         <div style="text-align: center;">
             <p><i class="fas fa-server"></i> 服务器地址：通过QQ群获取</p>
             
-            <a href="https://qm.qq.com/cgi-bin/qm/qr?k=CUCjwI9RgmkXNHjertVJ_oV7MBKq9fC_&jump_from=webapi&authKey=S4dvQzkglm7KSurViM+BifUt+rTASNZIbO/jCZk4qmr6kAhAmT9u0qao7qc3Hh8g" class="button" target="_blank">
-                <i class="fab fa-qq"></i> 点击加入QQ群
+            <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9Mkv1TKfI8NSix23EcXA1c3N4OEXJfZo&group_code=194630364" class="button" target="_blank">
+                <i class="fab fa-qq"></i> 点击加入审核群
             </a>
         </div>
         
