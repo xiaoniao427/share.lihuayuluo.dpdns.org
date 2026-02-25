@@ -236,10 +236,6 @@ export default {
             <p>取消玩家共享权限</p>
         </div>
         
-        <div class="qq-group">
-            <i class="fab fa-qq"></i> 服务器审核QQ群：599192336
-        </div>
-        
         <div style="text-align: center;">
             <p><i class="fas fa-server"></i> 服务器地址：通过QQ群获取</p>
             
