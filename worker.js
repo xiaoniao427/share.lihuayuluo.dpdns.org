@@ -8,12 +8,11 @@ export default {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="msvalidate.01" content="EB99BEBDDEC550BC18C6437A31F63950" />
+    
     <meta name='description' content='Minecraft PBlossom服务器宣传页面'>
     <meta itemprop="name" content=PBlossom-MC">
-
-<meta itemprop="Description" content="专业的Fabric MC服务器">
-
-<meta itemprop="image" content="https://littleskin.cn/favicon.png">
+    <meta itemprop="image" content="https://littleskin.cn/favicon.png">
+    
     <title>PBlossom Minecraft服务器</title>
     <style>
         body {
@@ -242,15 +241,15 @@ export default {
         </div>
         
         <div style="text-align: center;">
-            <p><i class="fas fa-server"></i> 服务器地址：通过审核QQ群获取</p>
+            <p><i class="fas fa-server"></i> 服务器地址：通过QQ群获取</p>
             
-            <a href="https://qun.qq.com/universal-share/share?ac=1&authKey=ShkzmwzAUviPTv9U9RlCZivmOLYbOVbgYdugadI8r66WJk9zdUGrXUzOlt1O6Z%2BP&busi_data=eyJncm91cENvZGUiOiI4MTE2NTE5OTUiLCJ0b2tlbiI6IjcwcVIvTWhlbzRpcWEzY3NEUHQzRjRRbFhWTE1IdHNDWU10L1FKS1lhQjlNblNzUGRERitkckNaNmtxWCtWL0siLCJ1aW4iOiIzNjMyOTMzMDY0In0%3D&data=tD4kpaWxH60jixqhqgyDRP9BPh6FfRX-Elio5Lo0lmZWp4d84TIxfxxp79XQ-bu0dK9cQe37Tb2LqvJasRmXjw&svctype=4&tempid=h5_group_info" class="button" target="_blank">
+            <a href="https://qm.qq.com/cgi-bin/qm/qr?k=CUCjwI9RgmkXNHjertVJ_oV7MBKq9fC_&jump_from=webapi&authKey=S4dvQzkglm7KSurViM+BifUt+rTASNZIbO/jCZk4qmr6kAhAmT9u0qao7qc3Hh8g" class="button" target="_blank">
                 <i class="fab fa-qq"></i> 点击加入QQ群
             </a>
         </div>
         
         <div class="footer">
-            <p>© 2025 PBlossom (梨花与落) Minecraft服务器</p>
+            <p>© 2026 PBlossom (梨花与落) Minecraft服务器</p>
             <p>本页面由Cloudflare Worker驱动</p>
         </div>
     </div>
