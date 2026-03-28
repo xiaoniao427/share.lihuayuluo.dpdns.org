@@ -237,8 +237,8 @@ export default {
         </div>
         
         <div style="text-align: center;">
-            <p><i class="fas fa-server"></i> 服务器地址：通过QQ群获取</p>
-            
+            <p><i class="fas fa-server"></i> 服务器地址：mc.lihuayuluo.cn</p>
+            <p><i class="fas fa-server"></i> 模组及汉化包下载：见群文件</p>
             <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9Mkv1TKfI8NSix23EcXA1c3N4OEXJfZo&group_code=194630364" class="button" target="_blank">
                 <i class="fab fa-qq"></i> 点击加入审核群
             </a>
