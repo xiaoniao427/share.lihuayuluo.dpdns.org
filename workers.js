@@ -1,4 +1,3 @@
-// Cloudflare Worker代码 - minecraft-server-simple.js
 export default {
   async fetch(request) {
     const html = `
@@ -239,7 +238,7 @@ export default {
         <div style="text-align: center;">
             <p><i class="fas fa-server"></i> 服务器地址：mc.lihuayuluo.cn</p>
             <p><i class="fas fa-server"></i> 模组及汉化包下载：见群文件</p>
-            <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9Mkv1TKfI8NSix23EcXA1c3N4OEXJfZo&group_code=194630364" class="button" target="_blank">
+            <a href="点击链接加入群聊【PBlossom-服务器聊天群③】：https://qun.qq.com/universal-share/share?ac=1&authKey=uNidNNti9hp07a06OAdIysEJpfVlPHDGHf5Ooo2VydtY2XL2xABglKoOhgrdXtP5&busi_data=eyJncm91cENvZGUiOiIxMDAzMjc2NjE1IiwidG9rZW4iOiJBZkkremhNYU5WOElqQ1E4WEV3UEZGcS94YzkwcWxpSk8yMmI1YVZHN2NvK0E1UnRSZG1oT3diUktCdjlaVWJhIiwidWluIjoiMzYzMjkzMzA2NCJ9&data=Mo5lMNKvdI505inh9rIGzaRHljXfDHh9uXipu3u-9ikx3LvpjoQ4oNp2wbDLkKWDxbaS7MYMosH3QP_rQuMzFQ&svctype=4&tempid=h5_group_info" class="button" target="_blank">
                 <i class="fab fa-qq"></i> 点击加入审核群
             </a>
         </div>
